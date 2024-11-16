@@ -1,4 +1,5 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 ##### Hi, I'm Adam:
 
@@ -12,6 +13,9 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&size=25&duration=3000&pause=800&width=435&lines=I+am+Web+Developer++;I+am+Web+Designer+;Web+Enthusiast)](https://git.io/typing-svg)
 
 ##### Languages I use
 
@@ -56,5 +60,19 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+
+---
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </a>
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+---
 
 ⭐️ From [AdamAlston](https://github.com/adamalston)
