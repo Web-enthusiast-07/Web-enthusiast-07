@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
-##### Hi, I'm Adam:
+##### Hi, I'm James:
 
 - 🎓Recent computer science graduate from UNC - Chapel Hill
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
@@ -61,15 +61,16 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
----
-
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-
+<!--
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
   </a>
 </p>
+-->
+
+<!--
 
 ---
 
@@ -78,3 +79,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ---
 
 ⭐️ From [AdamAlston](https://github.com/adamalston)
+--> 
+
