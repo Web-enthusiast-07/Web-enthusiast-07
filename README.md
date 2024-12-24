@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-[![](https://visitcount.itsvg.in/api?id=Web-enthusiast-07&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 ##### Hi, I'm James:
 
@@ -63,6 +63,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+
+[![](https://visitcount.itsvg.in/api?id=Web-enthusiast-07&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!--
 <p>
   <a href="https://skillicons.dev">
