@@ -56,6 +56,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
+### Shhh... my contributions are living in private repos, so they’re keeping a low profile. You’ll have to trust me on this one!
+
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
 [![](https://visitcount.itsvg.in/api?id=Web-enthusiast-07&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
